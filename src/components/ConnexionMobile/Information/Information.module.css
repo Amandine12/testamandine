@@ -1,0 +1,44 @@
+.root {
+  position: absolute;
+  left: 14px;
+  top: 328px;
+  width: 346.9149px;
+  height: 50px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle1 {
+  position: absolute;
+  left: 18.7366%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  border-radius: 50px;
+  background-color: #fff;
+}
+.email {
+  color: #00000080;
+  font-size: 23px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 23.9252%;
+  right: 55.3205%;
+  top: 24%;
+  bottom: 24%;
+  flex-direction: column;
+}
+.IconProfileCircle {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50px;
+  height: 50px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
